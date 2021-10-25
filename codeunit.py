@@ -1,4 +1,5 @@
 import unittest
+import code1
 
 
 class Testing(unittest.TestCase):
